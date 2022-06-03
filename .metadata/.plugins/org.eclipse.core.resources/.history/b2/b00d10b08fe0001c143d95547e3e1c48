@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Welcome Spring MVC</h1>
+<img alt="img" src="img/1.svg/">
+<a href="test1">test1 get</a></img>
+<form method="post" action="test">
+	ID: <input type="test" name="userId"/>
+	Pass: <input type="password" name="userPass"/>
+	<button type="submit">로그인</button>
+</form>
+</body>
+</html>
