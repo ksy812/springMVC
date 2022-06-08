@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\_spring_MVC\GetParameter\src\main\java\kr\hs\study\controller\TestController.java"/>
 			<item value="C:\_spring_MVC\UrlMapping"/>
 			<item value="C:\_spring_MVC\MethodPrj\src\main\webapp\WEB-INF\views\index.jsp"/>
 			<item value="C:\_spring_MVC\SecondMVC"/>
@@ -52,6 +53,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="RequestMapping_"/>
+			<item value="RequestMapping"/>
 			<item value="GetParameter"/>
 			<item value="UrlMapping_"/>
 			<item value="UrlMapping"/>
