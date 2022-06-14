@@ -9,13 +9,26 @@
 			 					 http://www.springframework.org/schema/beans/spring-beans.xsd
 			 					 http://www.springframework.org/schema/context
 			 					 http://www.springframework.org/schema/context/spring-context.xsd">
-	<annotation-driven />
-	<context:component-scan base-package="kr.hs.study.controller"/>
 	
-	<beans:bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+<annotation-driven/>	
+
+<context:component-scan base-package="kr.hs.study.controller" />		 
+<beans:bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		<beans:property name="prefix" value="/WEB-INF/views/"/>
 		<beans:property name="suffix" value=".jsp"/>
 	</beans:bean>
-	
-	<resources location="/resources/" mapping="**"/>
+<resources mapping="/**" location="/resources/"/> 
 </beans:beans>
+
+
+
+
+
+
+
+
+
+
+
+
+

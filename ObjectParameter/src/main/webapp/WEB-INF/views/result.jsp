@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Result JSP file</h1>
+<h1>Result Page</h1>
 </body>
 </html>
