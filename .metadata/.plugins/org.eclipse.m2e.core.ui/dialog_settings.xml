@@ -55,6 +55,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MyBatis"/>
 			<item value="RedirectForward"/>
 			<item value="CommandObject"/>
 			<item value="ViewResolver"/>
@@ -69,7 +70,6 @@
 			<item value="UrlMapping"/>
 			<item value="MethodPrj_"/>
 			<item value="MethodPrj"/>
-			<item value="SecondMVC"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
