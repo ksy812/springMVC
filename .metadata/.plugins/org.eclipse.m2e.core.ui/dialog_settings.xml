@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\_spring_MVC\SpringPrj\src\main\webapp\WEB-INF\views\register\result_register.jsp"/>
 			<item value="C:\_spring_MVC\SpringPrj\src\main\java\kr\hs\study\controller\TestController.java"/>
 			<item value="C:\_spring_MVC\ObjectParameter\src\main\java\kr\hs\study\controller\TestController.java"/>
 			<item value="C:\_spring_MVC\GetParameter\src\main\java\kr\hs\study\controller\TestController.java"/>
@@ -55,6 +56,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MyBatisXml"/>
 			<item value="MyBatis"/>
 			<item value="RedirectForward"/>
 			<item value="CommandObject"/>
@@ -69,7 +71,6 @@
 			<item value="UrlMapping_"/>
 			<item value="UrlMapping"/>
 			<item value="MethodPrj_"/>
-			<item value="MethodPrj"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
